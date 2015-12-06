@@ -12,4 +12,8 @@ public class HelloMoonActivity extends FragmentActivity {
         setContentView(R.layout.activity_hello_moon);
     }
 
+    public void testNewMethod() {
+        // do smth
+    }
+
 }
